@@ -1,0 +1,1 @@
+The model provides insights about the survival count related to titanic with providing insights related to various different parameters such as Gender, Age, Class. It gives a graphical representation of the datasets and gives a better view of the data
